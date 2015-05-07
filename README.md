@@ -1,1 +1,1 @@
-# blackjack
+# Blackjack for MATLAB
